@@ -52,24 +52,24 @@
 ### Langkah 1: Membuat Dokumen HTML Dasar
 * **Penjelasan:** Membuat struktur dasar HTML pada file `lab2_css_dasar.html` yang mencakup tag `<header>`, `<nav>`, serta elemen pembungkus `<div id="intro">` beserta tautan navigasi dan teks konten awal.
 * **Screenshot Hasil:**  
-  ![Langkah 1](image/L1.png)
+  ![Langkah 1](image/L1.PNG)
 
 ### Langkah 2: Mendeklarasikan CSS Internal
 * **Penjelasan:** Menambahkan tag `<style>` pada bagian `<head>` dokumen untuk mengatur tampilan font `body`, tata letak `<header>`, warna teks `<h1>`, serta pengaturan tampilan tag miring `<i>` di dalam judul.
 * **Screenshot Hasil:**  
-  ![Langkah 2](image/L2.png)
+  ![Langkah 2](image/L2.PNG)
 
 ### Langkah 3: Menambahkan Inline CSS
 * **Penjelasan:** Menyisipkan atribut `style="..."` langsung pada elemen `<p>` untuk mengatur posisi teks menjadi rata tengah (*center*) atau rata kanan-kiri (*justify*) serta menyesuaikan warna teksnya.
 * **Screenshot Hasil:**  
-  ![Langkah 3](image/L3.png)
+  ![Langkah 3](image/L3.PNG)
 
 ### Langkah 4: Membuat CSS Eksternal
 * **Penjelasan:** Membuat file baru `style_eksternal.css` untuk mengatur navigasi `<nav>` dan tautannya (`nav a`), kemudian menghubungkan file tersebut ke dokumen HTML menggunakan tag `<link rel="stylesheet" href="style_eksternal.css">` pada bagian `<head>`.
 * **Screenshot Hasil:**  
-  ![Langkah 4](image/L4.png)
+  ![Langkah 4](image/L4.PNG)
 
 ### Langkah 5: Menambahkan CSS Selector (ID dan Class)
 * **Penjelasan:** Menambahkan ID selector (`#intro` dan `#intro h1`) untuk latar belakang area konten utama, serta Class selector (`.button` dan `.btn-primary`) pada file `style_eksternal.css` untuk memformat tampilan tombol tautan "Informasi selengkapnya.".
 * **Screenshot Hasil Tampilan Akhir:**  
-  ![Screenshot Hasil Akhir](image/L5.png)
+  ![Screenshot Hasil Akhir](image/L5.PNG)
