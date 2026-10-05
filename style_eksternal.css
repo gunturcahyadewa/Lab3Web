@@ -1,0 +1,37 @@
+nav {
+    background: #20A759;
+    color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav .active,
+nav a:hover {
+    background-color: #178043;
+}
+#intro {
+    padding: 30px;
+    background-color: #2781e2;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+#intro h1 {
+    text-align: left !important;
+    border: 0;
+    color: #fff;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #e12e2e;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+}
